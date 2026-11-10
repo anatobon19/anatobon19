@@ -1,7 +1,3 @@
- <div align="center">
-
-# 👋 Hey there! I'm Ana Sofía
-
 ### 💻 Software Developer | Backend & Frontend
 
 <p>
@@ -83,5 +79,3 @@
 ### ✨ "Great software is built through continuous learning."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
-
-</div>
