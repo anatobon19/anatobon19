@@ -70,20 +70,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=anatobon19&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anatobon19&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-
-<img width="90%" src="https://streak-stats.demolab.com?user=anatobon19&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
 ## 🌐 Let's Connect!
 
 <p align="center">
