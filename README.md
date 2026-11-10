@@ -15,8 +15,10 @@
 
 ## 🌸 About Me
 
-- 💻 Software Developer interested in Backend and Frontend development.
-- 🏗️ Interested in software architecture and clean code principles.
+- 🎓 Final-semester Software Engineering student.
+- 💼 One year of professional experience gained through my internship.
+- 💻 Interested in Backend and Frontend development.
+- 🏗️ Interested in software architecture, clean code and software design principles.
 - 🚀 Exploring modern technologies and AI-powered development tools.
 - 📚 Always learning and improving my programming skills.
 - 🎯 Passionate about building efficient, scalable and maintainable applications.
